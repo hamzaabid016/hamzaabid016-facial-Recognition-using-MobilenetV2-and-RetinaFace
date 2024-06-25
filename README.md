@@ -16,6 +16,29 @@ This project implements facial recognition using MobilenetV2 for feature extract
    git clone https://github.com/hamzaabid016/hamzaabid016-facial-Recognition-using-MobilenetV2-and-RetinaFace.git
    cd hamzaabid016-facial-Recognition-using-MobilenetV2-and-RetinaFace
    ```
+2  **Install dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
+
+
+3   Download pre-trained models (if necessary) and place them in the appropriate directories.
+
+## Usage
+run this command in cmd
+```bash
+python app.py
+```
+after running app.py the fastapi opens and you can add upload the image and then i will recognize the face
+you can integrate the api to the frontend of the app or web
+
+
+## File Structure
+**app.py**: Main application script.
+**requirements.txt**: List of Python dependencies.
+**Dockerfile**: Docker configuration for containerization.
+**Script.sql**: SQL script for database setup.
+**models/**: Directory for storing pre-trained models.
+**recognized_images/**: Directory for storing images that will be recognized.
+**tools/**: Directory containing utility scripts (e.g., architecture.py, database.py).
+ 

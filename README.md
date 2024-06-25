@@ -41,4 +41,25 @@ you can integrate the api to the frontend of the app or web
 **models/**: Directory for storing pre-trained models.
 **recognized_images/**: Directory for storing images that will be recognized.
 **tools/**: Directory containing utility scripts (e.g., architecture.py, database.py).
+
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository, create a new branch, and submit a pull request with your proposed changes.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+For questions or support, please contact Hamza Abid:
+
+**Email**: hamzaabid677@gmail.com
+**GitHub**: hamzaabid016
+
+
+
+### Notes:
+- Replace `[email@example.com](mailto:email@example.com)` with your actual contact email.
+- Ensure all the URLs and paths in the README.md match your actual project structure and details.
+- This README.md provides a comprehensive guide for users and contributors, covering installation, usage, file structure, contribution guidelines, licensing, and contact information. Adjust or expand sections as needed based on specific requirements or additional details about your project.
+
  

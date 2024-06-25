@@ -57,9 +57,6 @@ For questions or support, please contact Hamza Abid:
 
 
 
-### Notes:
-- Replace `[email@example.com](mailto:email@example.com)` with your actual contact email.
-- Ensure all the URLs and paths in the README.md match your actual project structure and details.
-- This README.md provides a comprehensive guide for users and contributors, covering installation, usage, file structure, contribution guidelines, licensing, and contact information. Adjust or expand sections as needed based on specific requirements or additional details about your project.
+
 
  
